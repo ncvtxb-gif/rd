@@ -2535,7 +2535,7 @@ pub mod keys {
     pub const OPTION_ALLOW_REMOTE_CONFIG_MODIFICATION: &str = "allow-remote-config-modification";
     pub const OPTION_ALLOW_NUMERNIC_ONE_TIME_PASSWORD: &str = "allow-numeric-one-time-password";
     pub const OPTION_ENABLE_LAN_DISCOVERY: &str = "enable-lan-discovery";
-    pub const OPTION_DIRECT_SERVER: &str = "direct-server";
+    pub const OPTION_DIRECT_SERVER: &str = "true";
     pub const OPTION_DIRECT_ACCESS_PORT: &str = "direct-access-port";
     pub const OPTION_WHITELIST: &str = "whitelist";
     pub const OPTION_ALLOW_AUTO_DISCONNECT: &str = "allow-auto-disconnect";
